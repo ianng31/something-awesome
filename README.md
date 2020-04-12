@@ -28,3 +28,6 @@ usage: `nohup python3 osx-keylogger.py &`
   * Will place the program in the background so it runs silently, persisting even through closing of session. 
   
 output is saved to `~/.not_a_keylogger.txt`
+
+
+Idea derived from [here](https://github.com/HusseinBakri/Tanit-Keylogger) and the Tanit-Keylogger by Hussein Bakri
